@@ -33,29 +33,18 @@
 ### Easiest Way To Deploy On Heroku 
 
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/HuntingBots/AsunaRobot/)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/KenKaneki979/AsunaRobot/)
 
 ```
 
-This Bot is Created by The_Ghost_Hunter, If your kanging this without fork at least give a credit to get a smile of my hard work.
+This Bot is Created by ken kaneki, If your kanging this without fork at least give a credit to get a smile of my hard work.
  
-👉 YoneRobot
-👉 SaitamaRobot 
-👉 TheRealPhoenixBot
-👉 DaisyX 
-👉 WilliamButcherBot
 
 
-$ git clone https://github.com/HuntingBots/AsunaRobot
+
+$ git clone https://github.com/KenKaneki979/AsunaRobot
 
 ```
 
 
 
-## Note
-
-
-* [The Ghost Hunter](https://telegram.dog/The_Ghost_Hunter)
-* [Support](https://telegram.dog/AsunaRobotSupport)
-* [Discussion](https://telegram.dog/helpcentrebot1)
-* [Second Group](https://telegram.dog/fire_world_entertainment)
