@@ -74,56 +74,56 @@ def get_readable_time(seconds: int) -> str:
 
 
 PM_START_TEXT = """
-`Hello` [🧚‍♀️](https://telegra.ph/file/7274507d4da6ff6f3785d.mp4) `My name is` *Asuna*
+`Hello` [𝙳𝚎𝚖𝚘𝚗 𝚗𝚎𝚣𝚞𝚔𝚘🧚‍♀️](https://telegra.ph/file/7274507d4da6ff6f3785d.mp4) `My name is` *𝙳𝚎𝚖𝚘𝚗 𝚗𝚎𝚣𝚞𝚔𝚘*
 `I am powerful  group management bot.
-Build by The Ghost Hunter for Your Telegram Group , I specialize in managing Entertainment type groups.
-You can find my list of available commands with! Hit` *🔰Commands*   
+𝙱𝚞𝚒𝚕𝚍 𝚋𝚢 𝚃𝚑𝚎 𝚔𝚎𝚗 𝚔𝚊𝚗𝚎𝚔𝚒  𝚏𝚘𝚛 𝚈𝚘𝚞𝚛 𝚃𝚎𝚕𝚎𝚐𝚛𝚊𝚖 𝙶𝚛𝚘𝚞𝚙 , 𝙸 𝚜𝚙𝚎𝚌𝚒𝚊𝚕𝚒𝚣𝚎 𝚒𝚗 𝚖𝚊𝚗𝚊𝚐𝚒𝚗𝚐 𝙴𝚗𝚝𝚎𝚛𝚝𝚊𝚒𝚗𝚖𝚎𝚗𝚝 𝚝𝚢𝚙𝚎 𝚐𝚛𝚘𝚞𝚙𝚜.
+𝚈𝚘𝚞 𝚌𝚊𝚗 𝚏𝚒𝚗𝚍 𝚖𝚢 𝚕𝚒𝚜𝚝 𝚘𝚏 𝚊𝚟𝚊𝚒𝚕𝚊𝚋𝚕𝚎 𝚌𝚘𝚖𝚖𝚊𝚗𝚍𝚜 𝚠𝚒𝚝𝚑! 𝙷𝚒𝚝 *𝙱𝚕𝚘𝚘𝚍 𝙳𝚎𝚖𝚘𝚗 𝙰𝚛𝚝🔰*   
 """
 
 buttons = [
     [
         InlineKeyboardButton(
-            text="➕️ ADD ME TO YOUR GROUP ➕️", url="t.me/My_Asuna_Robot?startgroup=true"
+            text="𝚂𝚞𝚖𝚖𝚘𝚗 𝚖𝚎", url="t.me/DemonNezukoXRobot?startgroup=true"
         ),
     ],
     [
-        InlineKeyboardButton(text="❗ ABOUT", callback_data="asuna_"),
-        InlineKeyboardButton(text="🔰 COMMANDS", callback_data="help_back"),
+        InlineKeyboardButton(text="❗𝙸𝚗𝚏𝚘", callback_data="asuna_"),
+        InlineKeyboardButton(text="𝙱𝚕𝚘𝚘𝚍 𝙳𝚎𝚖𝚘𝚗 𝙰𝚛𝚝", callback_data="help_back"),
     ],
     [
         InlineKeyboardButton(
-            text="🤴 OWNER", url="https://telegram.dog/The_Ghost_Hunter"
-        ),
-    ],
-    [
-        InlineKeyboardButton(
-            text="📺 Star Wolrd Entertainment",
-            url="https://telegram.dog/fire_world_entertainment",
-        ),
-    ],
-    [
-        InlineKeyboardButton(text="🗨️ Logis", url="https://t.me/AsunaLogUpdate"),
-        InlineKeyboardButton(
-            text="👥 SUPPORT", url="https://telegram.dog/AsunaRobotSupport"
+            text="☀️ 𝚂𝚄𝙽 𝙱𝚁𝙴𝙰𝚃𝙷𝙸𝙽𝙶 𝙷𝙰𝚂𝙷𝙸𝚁𝙰", url="https://telegram.dog/KaNeKi354_bot"
         ),
     ],
     [
         InlineKeyboardButton(
-            text="💾 Source Code", url="https://github.com/HuntingBots/AsunaRobot"
+            text="🔹 𝚍𝚎𝚖𝚘𝚗 𝚜𝚕𝚊𝚢𝚎𝚛 𝚌𝚘𝚛𝚙𝚜",
+            url="https://t.me/anime8788",
+        ),
+    ],
+    [
+        InlineKeyboardButton(text="▫️ 𝚂𝚙𝚒𝚛𝚒𝚝𝚞𝚊𝚕 𝚜𝚞𝚙𝚙𝚘𝚛𝚝", url="https://t.me/AboutKenKaneki"),
+        InlineKeyboardButton(
+            text="𝙳𝚎𝚖𝚘𝚗𝚒𝚌 𝚜𝚘𝚌𝚒𝚎𝚝𝚢", url="https://telegram.dog/AndroidHackingZ"
+        ),
+    ],
+    [
+        InlineKeyboardButton(
+            text="𝙻𝚘𝚐𝚘", url="https://telegram.dog/GraphicsForFun"
         ),
     ],
 ]
 
 
 HELP_STRINGS = """
-`Hi.. I'm` [Asuna ⚙️]("https://telegra.ph/file/8cab4bb122cf76702b06d.jpg") 
+`Hi.. I'm` [𝙳𝚎𝚖𝚘𝚗 𝚗𝚎𝚣𝚞𝚔𝚘]("https://telegra.ph/file/720e6d615612c482aca72.jpg") 
 `Click on the buttons below to get documentation about specific modules..`"""
 
 
-ASUNA_IMG = "https://telegra.ph/file/7e61fe06a9c02747249b4.png"
+ASUNA_IMG = "https://telegra.ph/file/04fd9ddc54896a0354f80.jpg"
 
 DONATE_STRING = """Heya, glad to hear you want to donate!
- You can support the project via [Paypal](#) or by contacting @The_Ghost_Hunter\
+ You can support the project via [Paypal](#) or by contacting @KaNeKi354_bot\
  Supporting isnt always financial! \
  Those who cannot provide monetary support are welcome to help us develop the bot at ."""
 
@@ -378,7 +378,7 @@ def asuna_about_callback(update, context):
                  \n❍ I have a note keeping system, blacklists, and even predetermined replies on certain keywords.
                  \n❍ I check for admins' permissions before executing any command and more stuffs
                  \n\n_shasa's licensed under the GNU General Public License v3.0_
-                 \nHere is the [💾Repository](https://github.com/HuntingBots/AsunaRobot).
+                 \nHere is the [💾Repository](𝚈𝚘𝚞 𝚊𝚛𝚎 𝚗𝚘𝚝 𝚎𝚕𝚒𝚐𝚒𝚋𝚕𝚎 𝚏𝚘𝚛 𝚜𝚞𝚌𝚑 𝚍𝚎𝚖𝚘𝚗𝚒𝚌 𝚙𝚘𝚠𝚎𝚛).
                  \n\nIf you have any question about *Asuna*, let us know at .""",
             parse_mode=ParseMode.MARKDOWN,
             disable_web_page_preview=True,
@@ -401,7 +401,7 @@ def Source_about_callback(update, context):
     if query.data == "source_":
         query.message.edit_text(
             text=""" Hi..👸 I'm *Asuna*
-                 \nHere is the [Source Code](https://github.com/HuntingBots/AsunaRobot) .""",
+                 \nHere is the [Source Code](𝚈𝚘𝚞 𝚊𝚛𝚎 𝚗𝚘𝚝 𝚎𝚕𝚒𝚐𝚒𝚋𝚕𝚎 𝚏𝚘𝚛 𝚜𝚞𝚌𝚑 𝚍𝚎𝚖𝚘𝚗𝚒𝚌 𝚙𝚘𝚠𝚎𝚛) .""",
             parse_mode=ParseMode.MARKDOWN,
             disable_web_page_preview=True,
             reply_markup=InlineKeyboardMarkup(
